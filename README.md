@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-You can follow this link to see the website in action: 
+You can follow this link to see the website in action: https://shaneleejohnson.github.io/Website-landing-page/
 
 Right now this is a landing page for a future website. It is a static one page website that doesn't have any purpose yet. The nav links do work and you can use them to navigate to my github profile and my professional portfolio website. The contact button will take you to the contact me section of the webpage.
 
