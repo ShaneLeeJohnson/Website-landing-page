@@ -15,8 +15,8 @@ You can follow this link to see the website in action:
 Right now this is a landing page for a future website. It is a static one page website that doesn't have any purpose yet. The nav links do work and you can use them to navigate to my github profile and my professional portfolio website. The contact button will take you to the contact me section of the webpage.
 
 Here is a screenshot of what the website currently looks like.
-![Screenshot of Gather Here Card Shop Landing Page](assets\Capture.PNG)
-![Screenshot of Gather Here Card Shop Landing Page](assets\Capture-2.PNG)
+![Screenshot of Gather Here Card Shop Landing Page](assets/images/Capture.PNG)
+![Screenshot of Gather Here Card Shop Landing Page](assets/images/Capture-2.PNG)
 
 ## Credits
 
