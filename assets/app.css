@@ -1,0 +1,137 @@
+html {
+    font-family: Poppins, sans-serif;
+}
+
+body {
+    background-color: #d9dcd6;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #2f6690;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+nav {
+    display: flex;
+    justify-content: end;
+    padding: 1%;
+    border-bottom: 5px solid #81c3d7;
+}
+
+h1 {
+    text-align: center;
+    font-size: 250%;
+    font-weight: bold;
+    color: #3a7ca5;
+    margin-top: 5%;
+}
+
+img {
+    display: block;
+    margin: 5% auto 0;
+    max-width: 70%;
+    max-height: 50%;
+}
+
+figcaption {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+p {
+    text-align: center;
+    margin: 10px 0;
+}
+
+form {
+    text-align: center;
+}
+
+footer {
+    display: block;
+    text-align: center;
+    background-color: #2f6690;
+    color: white;
+    padding: 5px;
+    border-bottom: 5px solid darkgray;
+}
+
+.main_nav {
+    display: inline;
+    font-size: 110%;
+    padding: 0 5px;
+}
+
+.main_nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.main_nav a:hover {
+    text-decoration: underline;
+}
+
+#contact_box {
+    background-color: #81c3d7;
+    padding: 3% 0 2% 0;
+    border-top: 1px solid #2f6690;
+    margin-top: 10%;
+}
+
+#contact_box h2 {
+    text-align: center;
+    font-size: 120%;
+    color: white;
+    margin-bottom: 10px;
+}
+
+#contact {
+    display: flex;
+    justify-content: center;
+    border: 2px solid #3a7ca5;
+    margin: 0 30%;
+    border-radius: 1em;
+}
+
+#contact div {
+    display: flex;
+    justify-content: center;
+    padding: 1%;
+}
+
+#contact label {
+    color: #16425b;
+}
+
+#contact input {
+    border:none;
+    border-radius: 2em;
+    background-color: #2f6690;
+    color: white;
+}
+
+#send {
+    background-color: #16425b;
+    color: white;
+    padding: 5px 20px;
+    margin-left: 20px;
+    margin-bottom: 2%;
+    border-radius: 2em;
+    transition: .2s;
+}
+
+#send:hover {
+    background-color: #2f6690;
+    cursor: pointer;
+}
+
+#name {
+    margin-left: 1px;
+}
+
+#email {
+    margin-left: 4px;
+}
